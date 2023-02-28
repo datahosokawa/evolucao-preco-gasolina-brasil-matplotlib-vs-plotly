@@ -1,4 +1,4 @@
-O objetivo dessa análise é reproduzir o gráfico da evolução de preço da gasolina comum no Brasil, utilizando duas bibliotecas diferentes: matplotlib e plotly
+O objetivo dessa análise é comparar a criação do mesmo gráfico utilizando bibliotecas diferentes: matplotlib e plotly
 
 
 <h3>➡ Resultado final utilizando a biblioteca matplotlib:</h3>
