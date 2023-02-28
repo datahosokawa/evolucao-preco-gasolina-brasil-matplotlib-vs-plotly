@@ -3,11 +3,15 @@ O objetivo dessa análise é reproduzir o gráfico da evolução de preço da ga
 
 Resultado final utilizando a biblioteca matplotlib:
 
+<img src="https://i.imgur.com/5x1a7Mq.png" />  
+
 
 <img src="https://i.imgur.com/DwynTbk.png" />  
 
 
 Resultado final utilizando a biblioteca Plotly:
+
+<img src="https://i.imgur.com/5cmgnrR.png" />  
 
 <img src="https://i.imgur.com/RzRUtpY.png" />  
 
