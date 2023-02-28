@@ -16,27 +16,26 @@ Resultado final utilizando a biblioteca Plotly:
 <img src="https://i.imgur.com/RzRUtpY.png" />  
 
 
-E aí? Matplotlib ou Plotly?
+<h3>E aí? Matplotlib ou Plotly?</h3>
 
-<h3> &nbsp; Design e Modernidade </h3>
+<h3>Design e Modernidade </h3>
  
 ✔️Plotly
 ❌ Matplotlib
 
-A biblioteca plotly da um show de modernidade e interatividade. Se você busca um visual moderno use Plotly.
+A biblioteca plotly da um show de modernidade e interatividade. Se você busca um visual moderno, use Plotly.
 
-<h3> &nbsp; Facilidade + Tempo codando </h3>
+<h3>Facilidade + Tempo codando </h3>
  
 ✔️Plotly
-✔️ Matplotlib
+✔️Matplotlib
 
 Pessoalmente, com relação a facilidade e o tempo que demorei para codar, eu diria que houve um empate. 
-Se você olhar o código da análise, vai peceber que o código é praticamente o mesmo, temos somente algumas mudanças de nomenclaturas, mas a lógica segue igual.
 
 <h3> &nbsp; Afinal, qual eu devo estudar/utilizar? </h3>
 
 Ambas as bibliotecas são poderosas ferramentas de visualização de dados em Python. 
-A escolha entre Matplotlib e Plotly  depende das necessidades específicas de visualização de dados do seu projeto.
+A escolha entre Matplotlib e Plotly depende das necessidades específicas de visualização de dados do seu projeto.
 
 Se você precisa criar gráficos estáticos, o Matplotlib pode ser a melhor escolha. 
 Se você deseja criar gráficos dinâmicos e interativos, o Plotly pode ser a melhor escolha.
