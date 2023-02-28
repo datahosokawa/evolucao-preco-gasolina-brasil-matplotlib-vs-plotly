@@ -1,7 +1,7 @@
 O objetivo dessa análise é reproduzir o gráfico da evolução de preço da gasolina comum no Brasil, utilizando duas bibliotecas diferentes: matplotlib e plotly
 
 
-<h3>Resultado final utilizando a biblioteca matplotlib:</h3>
+➡ <h3>Resultado final utilizando a biblioteca matplotlib:</h3>
 
 <img src="https://i.imgur.com/5x1a7Mq.png" />  
 
@@ -9,7 +9,7 @@ O objetivo dessa análise é reproduzir o gráfico da evolução de preço da ga
 <img src="https://i.imgur.com/DwynTbk.png" />  
 
 
-<h3 style="red"> redResultado final utilizando a biblioteca Plotly:</h3>
+➡ <h3> Resultado final utilizando a biblioteca Plotly:</h3>
 
 <img src="https://i.imgur.com/5cmgnrR.png" />  
 
